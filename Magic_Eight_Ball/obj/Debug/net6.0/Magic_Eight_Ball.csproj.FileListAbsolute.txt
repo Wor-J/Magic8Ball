@@ -1,0 +1,15 @@
+C:\Users\senec\Desktop\C-Sharp\Magic_Eight_Ball\Magic_Eight_Ball\obj\Debug\net6.0\Magic_Eight_Ball.csproj.AssemblyReference.cache
+C:\Users\senec\Desktop\C-Sharp\Magic_Eight_Ball\Magic_Eight_Ball\obj\Debug\net6.0\Magic_Eight_Ball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senec\Desktop\C-Sharp\Magic_Eight_Ball\Magic_Eight_Ball\obj\Debug\net6.0\Magic_Eight_Ball.AssemblyInfoInputs.cache
+C:\Users\senec\Desktop\C-Sharp\Magic_Eight_Ball\Magic_Eight_Ball\obj\Debug\net6.0\Magic_Eight_Ball.AssemblyInfo.cs
+C:\Users\senec\Desktop\C-Sharp\Magic_Eight_Ball\Magic_Eight_Ball\obj\Debug\net6.0\Magic_Eight_Ball.csproj.CoreCompileInputs.cache
+C:\Users\senec\Desktop\C-Sharp\Magic_Eight_Ball\Magic_Eight_Ball\bin\Debug\net6.0\Magic_Eight_Ball.exe
+C:\Users\senec\Desktop\C-Sharp\Magic_Eight_Ball\Magic_Eight_Ball\bin\Debug\net6.0\Magic_Eight_Ball.deps.json
+C:\Users\senec\Desktop\C-Sharp\Magic_Eight_Ball\Magic_Eight_Ball\bin\Debug\net6.0\Magic_Eight_Ball.runtimeconfig.json
+C:\Users\senec\Desktop\C-Sharp\Magic_Eight_Ball\Magic_Eight_Ball\bin\Debug\net6.0\Magic_Eight_Ball.dll
+C:\Users\senec\Desktop\C-Sharp\Magic_Eight_Ball\Magic_Eight_Ball\bin\Debug\net6.0\Magic_Eight_Ball.pdb
+C:\Users\senec\Desktop\C-Sharp\Magic_Eight_Ball\Magic_Eight_Ball\obj\Debug\net6.0\Magic_Eight_Ball.dll
+C:\Users\senec\Desktop\C-Sharp\Magic_Eight_Ball\Magic_Eight_Ball\obj\Debug\net6.0\refint\Magic_Eight_Ball.dll
+C:\Users\senec\Desktop\C-Sharp\Magic_Eight_Ball\Magic_Eight_Ball\obj\Debug\net6.0\Magic_Eight_Ball.pdb
+C:\Users\senec\Desktop\C-Sharp\Magic_Eight_Ball\Magic_Eight_Ball\obj\Debug\net6.0\Magic_Eight_Ball.genruntimeconfig.cache
+C:\Users\senec\Desktop\C-Sharp\Magic_Eight_Ball\Magic_Eight_Ball\obj\Debug\net6.0\ref\Magic_Eight_Ball.dll
